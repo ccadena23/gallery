@@ -1,0 +1,53 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Project — Your Name Photography</title>
+<link rel="stylesheet" href="css/style.css">
+</head>
+<body>
+
+<nav class="site-nav">
+  <div class="wrap">
+    <a href="index.html" class="brand">Your Name</a>
+    <div class="links">
+      <a href="index.html">Projects</a>
+      <a href="about.html">About</a>
+      <a href="mailto:hello@yourname.com">Contact</a>
+    </div>
+  </div>
+</nav>
+
+<header class="project-header">
+  <div class="wrap">
+    <a href="index.html" class="back">&larr; All projects</a>
+    <h1 id="proj-title">Loading&hellip;</h1>
+    <p class="meta-row" id="proj-meta"></p>
+    <p class="story" id="proj-caption"></p>
+  </div>
+</header>
+
+<main class="wrap">
+  <div class="gallery" id="gallery"></div>
+</main>
+
+<footer class="site-footer">
+  <div class="wrap" style="display:flex; justify-content:space-between; width:100%;">
+    <span>&copy; <span id="year"></span> Your Name</span>
+    <a href="mailto:hello@yourname.com">hello@yourname.com</a>
+  </div>
+</footer>
+
+<div class="lightbox" id="lightbox">
+  <button class="lb-close" id="lbClose" aria-label="Close">Close &times;</button>
+  <button class="lb-prev" id="lbPrev" aria-label="Previous photo">&larr;</button>
+  <img id="lbImage" src="" alt="">
+  <button class="lb-next" id="lbNext" aria-label="Next photo">&rarr;</button>
+  <div class="lb-counter" id="lbCounter"></div>
+</div>
+
+<script src="js/data.js"></script>
+<script src="js/project.js"></script>
+</body>
+</html>
