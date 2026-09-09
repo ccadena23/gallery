@@ -14,7 +14,7 @@ const PROJECTS = [
     photos: [
        { src: "assets/photos/waterfalls/220.jpg", alt: "Rainbow Falls, vertical" },
        { src: "assets/photos/waterfalls/236.jpg", alt: "Danger sign" },
-       { src: "assets/photos/waterfalls/238.jpg", alt: "Fungi on fallen tree" },
+       { src: "assets/photos/waterfalls/238_compressed.jpg", alt: "Fungi on fallen tree" },
        { src: "assets/photos/waterfalls/206.jpg", alt: "Overlook from hiking path" },
        { src: "assets/photos/waterfalls/209.jpg", alt: "View down the creek" },
        { src: "assets/photos/waterfalls/221.jpg", alt: "Rainbow Falls, horizontal" },
