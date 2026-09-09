@@ -12,22 +12,17 @@ const PROJECTS = [
     caption: "Who would've thought that the first weekend in September would make such a beautiful hike.",
     photoCount: 11,
     photos: [
-       { src: "assets/photos/waterfalls/220.jpg", alt: "Rainbow Falls, vertical" },
-       { src: "assets/photos/waterfalls/236.jpg", alt: "Danger sign" },
-       { src: "assets/photos/waterfalls/238_resized800.jpg", alt: "Fungi on fallen tree r800" },
-       { src: "assets/photos/waterfalls/238_resized1500.jpg", alt: "Fungi on fallen tree r1500" },
-       { src: "assets/photos/waterfalls/238_resized3000.jpg", alt: "Fungi on fallen tree r3000" },
-       { src: "assets/photos/waterfalls/238_compressed90.jpg", alt: "Fungi on fallen tree c90" },
-       { src: "assets/photos/waterfalls/238_compressed80.jpg", alt: "Fungi on fallen tree c80" },
-       { src: "assets/photos/waterfalls/238_compressed60.jpg", alt: "Fungi on fallen tree c60" },
-       { src: "assets/photos/waterfalls/206.jpg", alt: "Overlook from hiking path" },
-       { src: "assets/photos/waterfalls/209.jpg", alt: "View down the creek" },
-       { src: "assets/photos/waterfalls/221.jpg", alt: "Rainbow Falls, horizontal" },
-       { src: "assets/photos/waterfalls/233.jpg", alt: "Stairway to the falls" },
-       { src: "assets/photos/waterfalls/248.jpg", alt: "Heron in the creek, portrait" },
-       { src: "assets/photos/waterfalls/286.jpg", alt: "Drift Falls" },
-       { src: "assets/photos/waterfalls/292.jpg", alt: "Turtleback Falls" },
-       { src: "assets/photos/waterfalls/242.jpg", alt: "Heron in the creek, landscape" }
+       { src: "assets/photos/waterfalls/220_resized.jpg", alt: "Rainbow Falls, vertical" },
+       { src: "assets/photos/waterfalls/236_resized.jpg", alt: "Danger sign" },
+       { src: "assets/photos/waterfalls/238_resized.jpg", alt: "Fungi on fallen tree" },
+       { src: "assets/photos/waterfalls/206_resized.jpg", alt: "Overlook from hiking path" },
+       { src: "assets/photos/waterfalls/209_resized.jpg", alt: "View down the creek" },
+       { src: "assets/photos/waterfalls/221_resized.jpg", alt: "Rainbow Falls, horizontal" },
+       { src: "assets/photos/waterfalls/233_resized.jpg", alt: "Stairway to the falls" },
+       { src: "assets/photos/waterfalls/248_resized.jpg", alt: "Heron in the creek, portrait" },
+       { src: "assets/photos/waterfalls/286_resized.jpg", alt: "Drift Falls" },
+       { src: "assets/photos/waterfalls/292_resized.jpg", alt: "Turtleback Falls" },
+       { src: "assets/photos/waterfalls/242_resized.jpg", alt: "Heron in the creek, landscape" }
      ]
   },
   // {
